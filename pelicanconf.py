@@ -1,6 +1,6 @@
 AUTHOR = 'Szymon'
 SITENAME = 'Pelican'
-SITEURL = 'https://szymow.github.io/pelican'
+SITEURL = ''
 
 PATH = 'content'
 
